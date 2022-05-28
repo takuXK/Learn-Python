@@ -1,0 +1,21 @@
+Text
+string Text Constants and Templates
+textwrap  Formatting Text Paragraphs
+re  Regular Expressions
+difflib Compare Sequences
+Data Structures
+enum Enumeration Type
+collections Container Data Types
+array Sequence of Fixed-type Data
+heapq Heap Sort Algorithm
+bisect Maintain Lists in Sorted Order
+queue Thread-Safe FIFO Implementation
+struct Binary Data Structures
+weakref Impermanent References to Objects
+copy Duplicate Objects
+pprint Pretty-Print Data Structures
+Algorithms
+functools Tools for Manipulating Functions
+itertools Iterator Functions
+operator Functional Interface to Built-in Operators
+contextlib Context Manager Utilities

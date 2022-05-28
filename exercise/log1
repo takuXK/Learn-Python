@@ -1,0 +1,344 @@
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:19 [log] wx.getStorage api invoke
+2020-10-23 23:32:19 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:19 [log] wx.getStorageSync return
+2020-10-23 23:32:19 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:19 [log] wx.getStorageSync return
+2020-10-23 23:32:19 [log] wx.login api invoke
+2020-10-23 23:32:19 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:19 [log] wx.getStorageSync return
+2020-10-23 23:32:19 [log] wx.setStorageSync api invoke
+2020-10-23 23:32:19 [log] wx.setStorageSync return
+2020-10-23 23:32:19 [log] wx.setStorageSync api invoke
+2020-10-23 23:32:19 [log] wx.setStorageSync return
+2020-10-23 23:32:19 [log] wx.getSystemInfo api invoke
+2020-10-23 23:32:19 [log] wx.getNetworkType api invoke
+2020-10-23 23:32:19 [log] App onLaunch have been invoked
+2020-10-23 23:32:19 [log] wx.getStorageInfoSync api invoke
+2020-10-23 23:32:19 [log] wx.getStorageInfoSync return
+2020-10-23 23:32:19 [log] App onShow have been invoked
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:19 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:19 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:19 [log] page packages/taro-yum-common/start/index onLoad have been invoked
+2020-10-23 23:32:19 [log] wx.redirectTo api invoke
+2020-10-23 23:32:19 [log] wx.redirectTo success callback with msg redirectTo:ok
+2020-10-23 23:32:19 [log] page packages/taro-yum-common/start/index onShow have been invoked
+2020-10-23 23:32:19 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:19 [log] page packages/taro-yum-common/start/index onReady have been invoked
+2020-10-23 23:32:20 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:20 [log] wx.login success callback with msg login:ok
+2020-10-23 23:32:21 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:21 [log] wx.setStorageSync api invoke
+2020-10-23 23:32:21 [log] wx.setStorageSync return
+2020-10-23 23:32:21 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:21 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:21 [log] wx.getStorageSync return
+2020-10-23 23:32:21 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:21 [log] wx.setStorageSync api invoke
+2020-10-23 23:32:21 [log] wx.setStorageSync return
+2020-10-23 23:32:21 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:21 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:21 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation return
+2020-10-23 23:32:21 [log] wx.createAnimation api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation return
+2020-10-23 23:32:21 [log] wx.createAnimation api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation return
+2020-10-23 23:32:21 [log] wx.createAnimation api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation return
+2020-10-23 23:32:21 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:21 [log] page packages/taro-yum-common/start/index onUnload have been invoked
+2020-10-23 23:32:21 [log] wx.showShareMenu api invoke
+2020-10-23 23:32:21 [log] wx.getStorage api invoke
+2020-10-23 23:32:21 [log] wx.getStorage api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation api invoke
+2020-10-23 23:32:21 [log] wx.createAnimation return
+2020-10-23 23:32:21 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:21 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:21 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:21 [log] page prime/pages/kfcPrime/usePrime onLoad have been invoked
+2020-10-23 23:32:22 [log] page prime/pages/kfcPrime/usePrime onShow have been invoked
+2020-10-23 23:32:22 [log] wx.getNetworkType api invoke
+2020-10-23 23:32:22 [log] wx.onNetworkStatusChange api invoke
+2020-10-23 23:32:22 [log] wx.getNetworkType api invoke
+2020-10-23 23:32:22 [log] wx.onNetworkStatusChange api invoke
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.redirectTo api invoke
+2020-10-23 23:32:22 [log] wx.redirectTo success callback with msg redirectTo:ok
+2020-10-23 23:32:22 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:22 [log] wx.getStorageSync return
+2020-10-23 23:32:22 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:22 [log] wx.createIntersectionObserver api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.showLoading api invoke
+2020-10-23 23:32:22 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:22 [log] wx.getNetworkType success callback with msg getNetworkType:ok
+2020-10-23 23:32:22 [log] wx.getNetworkType success callback with msg getNetworkType:ok
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage api invoke
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.setStorage api invoke
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.createAnimation api invoke
+2020-10-23 23:32:22 [log] wx.createAnimation return
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:22 [log] wx.showLoading success callback with msg showLoading:ok
+2020-10-23 23:32:22 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:22 [log] wx.setStorage success callback with msg setStorage:ok
+2020-10-23 23:32:22 [log] wx.createAnimation api invoke
+2020-10-23 23:32:22 [log] wx.createAnimation return
+2020-10-23 23:32:22 [log] wx.showLoading api invoke
+2020-10-23 23:32:22 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:22 [log] wx.createAnimation api invoke
+2020-10-23 23:32:22 [log] wx.createAnimation return
+2020-10-23 23:32:22 [log] wx.showLoading success callback with msg showLoading:ok
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:22 [log] page prime/pages/kfcPrime/usePrime onUnload have been invoked
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:22 [log] page prime/pages/kfcPrime/subPages/citySelect/index onLoad have been invoked
+2020-10-23 23:32:22 [log] page prime/pages/kfcPrime/subPages/citySelect/index onShow have been invoked
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.hideLoading api invoke
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.hideLoading api invoke
+2020-10-23 23:32:22 [log] page prime/pages/kfcPrime/subPages/citySelect/index onReady have been invoked
+2020-10-23 23:32:22 [log] wx.showLoading api invoke
+2020-10-23 23:32:22 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:22 [log] wx.showLoading success callback with msg showLoading:ok
+2020-10-23 23:32:22 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:22 [log] wx.hideLoading api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:22 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:22 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:23 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:24 [log] wx.chooseLocation api invoke
+2020-10-23 23:32:24 [log] wx.showToast api invoke
+2020-10-23 23:32:24 [log] wx.chooseLocation fail callback with msg chooseLocation:fail:not supported
+2020-10-23 23:32:24 [log] wx.showToast success callback with msg showToast:ok
+2020-10-23 23:32:25 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:25 [log] wx.getStorageSync return
+2020-10-23 23:32:25 [log] wx.chooseLocation api invoke
+2020-10-23 23:32:25 [log] wx.showToast api invoke
+2020-10-23 23:32:25 [log] wx.chooseLocation fail callback with msg chooseLocation:fail:not supported
+2020-10-23 23:32:25 [log] wx.showToast success callback with msg showToast:ok
+2020-10-23 23:32:28 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:28 [log] wx.getStorageSync return
+2020-10-23 23:32:28 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:29 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:29 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:30 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:30 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:30 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:30 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:30 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:31 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:31 [log] wx.getStorageSync return
+2020-10-23 23:32:33 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:34 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:34 [log] wx.getStorageSync return
+2020-10-23 23:32:34 [log] wx.setStorage api invoke
+2020-10-23 23:32:34 [log] wx.redirectTo api invoke
+2020-10-23 23:32:34 [log] wx.redirectTo success callback with msg redirectTo:ok
+2020-10-23 23:32:34 [log] wx.setStorage success callback with msg setStorage:ok
+2020-10-23 23:32:34 [log] page prime/pages/kfcPrime/subPages/citySelect/index onUnload have been invoked
+2020-10-23 23:32:34 [log] wx.showShareMenu api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.createAnimation api invoke
+2020-10-23 23:32:34 [log] wx.createAnimation return
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:34 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:34 [log] page prime/pages/kfcPrime/usePrime onLoad have been invoked
+2020-10-23 23:32:34 [log] page prime/pages/kfcPrime/usePrime onShow have been invoked
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.getStorage success callback with msg getStorage:ok
+2020-10-23 23:32:34 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:34 [log] wx.getStorageSync return
+2020-10-23 23:32:34 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:34 [log] wx.createIntersectionObserver api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.showLoading api invoke
+2020-10-23 23:32:34 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:34 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:34 [log] wx.getStorage success callback with msg getStorage:ok
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.getStorage success callback with msg getStorage:ok
+2020-10-23 23:32:34 [log] wx.setStorage api invoke
+2020-10-23 23:32:34 [log] wx.createAnimation api invoke
+2020-10-23 23:32:34 [log] wx.createAnimation return
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:34 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:34 [log] wx.showLoading success callback with msg showLoading:ok
+2020-10-23 23:32:34 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:34 [log] wx.hideLoading api invoke
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:34 [log] wx.setStorage success callback with msg setStorage:ok
+2020-10-23 23:32:34 [log] wx.showLoading api invoke
+2020-10-23 23:32:34 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] page prime/pages/kfcPrime/usePrime onReady have been invoked
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync api invoke
+2020-10-23 23:32:34 [log] wx.getSystemInfoSync return
+2020-10-23 23:32:34 [log] wx.getMenuButtonBoundingClientRect api invoke
+2020-10-23 23:32:34 [log] wx.showLoading success callback with msg showLoading:ok
+2020-10-23 23:32:34 [log] wx.getStorage success callback with msg getStorage:ok
+2020-10-23 23:32:34 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:34 [log] wx.hideLoading api invoke
+2020-10-23 23:32:34 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:34 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:34 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:34 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:34 [log] wx.getStorage api invoke
+2020-10-23 23:32:34 [log] wx.getStorage fail callback with msg getStorage:fail data not found
+2020-10-23 23:32:35 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:35 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:35 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:35 [log] wx.createSelectorQuery api invoke
+2020-10-23 23:32:35 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:35 [log] wx.getStorageSync return
+2020-10-23 23:32:35 [log] wx.setStorageSync api invoke
+2020-10-23 23:32:35 [log] wx.setStorageSync return
+2020-10-23 23:32:38 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:38 [log] wx.getStorageSync return
+2020-10-23 23:32:38 [log] wx.removeStorageSync api invoke
+2020-10-23 23:32:38 [log] wx.removeStorageSync return
+2020-10-23 23:32:38 [log] wx.request api invoke with seq 0
+2020-10-23 23:32:38 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:32:38 [log] wx.createIntersectionObserver api invoke
+2020-10-23 23:32:41 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:41 [log] wx.getStorageSync return
+2020-10-23 23:32:44 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:44 [log] wx.getStorageSync return
+2020-10-23 23:32:47 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:47 [log] wx.getStorageSync return
+2020-10-23 23:32:50 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:50 [log] wx.getStorageSync return
+2020-10-23 23:32:53 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:53 [log] wx.getStorageSync return
+2020-10-23 23:32:56 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:56 [log] wx.getStorageSync return
+2020-10-23 23:32:59 [log] wx.getStorageSync api invoke
+2020-10-23 23:32:59 [log] wx.getStorageSync return
+2020-10-23 23:33:2 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:2 [log] wx.getStorageSync return
+2020-10-23 23:33:5 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:5 [log] wx.getStorageSync return
+2020-10-23 23:33:8 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:8 [log] wx.getStorageSync return
+2020-10-23 23:33:9 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:9 [log] wx.getStorageSync return
+2020-10-23 23:33:9 [log] wx.setStorageSync api invoke
+2020-10-23 23:33:9 [log] wx.setStorageSync return
+2020-10-23 23:33:9 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:9 [log] wx.getStorageSync return
+2020-10-23 23:33:9 [log] wx.setStorageSync api invoke
+2020-10-23 23:33:9 [log] wx.setStorageSync return
+2020-10-23 23:33:11 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:11 [log] wx.getStorageSync return
+2020-10-23 23:33:11 [log] wx.removeStorageSync api invoke
+2020-10-23 23:33:11 [log] wx.removeStorageSync return
+2020-10-23 23:33:11 [log] wx.request api invoke with seq 0
+2020-10-23 23:33:11 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:33:14 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:14 [log] wx.getStorageSync return
+2020-10-23 23:33:17 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:17 [log] wx.getStorageSync return
+2020-10-23 23:33:20 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.getStorageSync return
+2020-10-23 23:33:20 [log] wx.setStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.setStorageSync return
+2020-10-23 23:33:20 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.getStorageSync return
+2020-10-23 23:33:20 [log] wx.setStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.setStorageSync return
+2020-10-23 23:33:20 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.getStorageSync return
+2020-10-23 23:33:20 [log] wx.removeStorageSync api invoke
+2020-10-23 23:33:20 [log] wx.removeStorageSync return
+2020-10-23 23:33:20 [log] wx.request api invoke with seq 0
+2020-10-23 23:33:20 [log] wx.request success callback with msg request:ok with seq 0
+2020-10-23 23:33:23 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:23 [log] wx.getStorageSync return
+2020-10-23 23:33:26 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:26 [log] wx.getStorageSync return
+2020-10-23 23:33:29 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:29 [log] wx.getStorageSync return
+2020-10-23 23:33:32 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:32 [log] wx.getStorageSync return
+2020-10-23 23:33:35 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:35 [log] wx.getStorageSync return
+2020-10-23 23:33:38 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:38 [log] wx.getStorageSync return
+2020-10-23 23:33:41 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:41 [log] wx.getStorageSync return
+2020-10-23 23:33:44 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:44 [log] wx.getStorageSync return
+2020-10-23 23:33:47 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:47 [log] wx.getStorageSync return
+2020-10-23 23:33:50 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:50 [log] wx.getStorageSync return
+2020-10-23 23:33:53 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:53 [log] wx.getStorageSync return
+2020-10-23 23:33:56 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:56 [log] wx.getStorageSync return
+2020-10-23 23:33:59 [log] wx.getStorageSync api invoke
+2020-10-23 23:33:59 [log] wx.getStorageSync return
+2020-10-23 23:34:2 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:2 [log] wx.getStorageSync return
+2020-10-23 23:34:5 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:5 [log] wx.getStorageSync return
+2020-10-23 23:34:8 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:8 [log] wx.getStorageSync return
+2020-10-23 23:34:11 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:11 [log] wx.getStorageSync return
+2020-10-23 23:34:14 [log] page prime/pages/kfcPrime/usePrime onHide have been invoked
+2020-10-23 23:34:14 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:14 [log] wx.getStorageSync return
+2020-10-23 23:34:14 [log] wx.getStorageSync api invoke
+2020-10-23 23:34:14 [log] wx.getStorageSync return
+2020-10-23 23:34:14 [log] wx.setStorageSync api invoke
+2020-10-23 23:34:14 [log] wx.setStorageSync return
+2020-10-23 23:34:14 [log] wx.setStorageSync api invoke
+2020-10-23 23:34:14 [log] wx.setStorageSync return
+2020-10-23 23:34:14 [log] App onHide have been invoked
